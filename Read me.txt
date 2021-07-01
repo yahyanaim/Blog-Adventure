@@ -1,0 +1,29 @@
+
+
+Brief :1 http://localhost/wordpress/wp-admin/
+
+UserName: admin.
+
+Password: 1234 .
+
+1- Installation Wordpress à travers le lien : https://wordpress.org/download/
+
+2- Extraire le dossier WordPress dans le dossier C:\xampp\htdocs.
+
+3- Creation de la base de donnée qui s'appelle : blog.
+
+4- Configuration le wordpress et creation User Admin.
+
+5- recherche du theme Neve avec plugin Elementor integrer.
+
+6- installer et chercher le theme Generat press importer puis activé dans l'Options Neve.
+
+7- Modifier le contenu de page Home .
+
+8- Modifier le contenu de toutes les pages avec plugin Elementor (Menu / Footer / Ajouter des postes et des pages)
+
+9- installer le plugin WPfome pour créer la page Conact US.
+
+10- Partir dans les utilisateurs sur WordPress puis partir à Ajouter.
+
+11- j'ajoute deux utilisateurs avec son role : 1er user je donner le role Administrator et le 2eme user je donnée le Editeur.
